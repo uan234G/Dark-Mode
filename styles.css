@@ -1,0 +1,15 @@
+body {
+    line-height:1.5;
+    padding: 25px;
+    background-color: #ffffff;
+    color: #272727;
+    font-size: 25px;
+    }
+    
+.dark-mode {
+    background: #272727;
+    color: #ffffff;
+}
+button{
+    padding: 10px 35px;
+}
